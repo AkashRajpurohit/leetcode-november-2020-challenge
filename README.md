@@ -5,7 +5,7 @@
 [Challenge Link](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/)
 
 ## Week 1 🚧
-Coming soon...
+1. [Convert Binary Number in a Linked List to Integer](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/564/week-1-november-1st-november-7th/3516/) ➡️ [CPP Solution](Week1/getDecimalValue.cpp)
 
 ## Week 2 🚧
 Coming soon...
