@@ -8,6 +8,7 @@
 1. [Convert Binary Number in a Linked List to Integer](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/564/week-1-november-1st-november-7th/3516/) ➡️ [CPP Solution](Week1/getDecimalValue.cpp)
 2. [Insertion Sort List](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/564/week-1-november-1st-november-7th/3517/) ➡️ [CPP Solution](Week1/insertionSortList.cpp)
 3. [Consecutive Characters](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/564/week-1-november-1st-november-7th/3518/) ➡️ [CPP Solution](Week1/maxPower.cpp)
+4. [Minimum Height Trees](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/564/week-1-november-1st-november-7th/3519/) ➡️ [CPP Solution](Week1/findMinHeightTrees.cpp)
 
 ## Week 2 🚧
 Coming soon...
