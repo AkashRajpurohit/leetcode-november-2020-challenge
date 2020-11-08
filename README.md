@@ -4,13 +4,14 @@
 
 [Challenge Link](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/)
 
-## Week 1 🚧
+## Week 1 ✅
 1. [Convert Binary Number in a Linked List to Integer](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/564/week-1-november-1st-november-7th/3516/) ➡️ [CPP Solution](Week1/getDecimalValue.cpp)
 2. [Insertion Sort List](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/564/week-1-november-1st-november-7th/3517/) ➡️ [CPP Solution](Week1/insertionSortList.cpp)
 3. [Consecutive Characters](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/564/week-1-november-1st-november-7th/3518/) ➡️ [CPP Solution](Week1/maxPower.cpp)
 4. [Minimum Height Trees](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/564/week-1-november-1st-november-7th/3519/) ➡️ [CPP Solution](Week1/findMinHeightTrees.cpp)
 5. [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/564/week-1-november-1st-november-7th/3519/) ➡️ [CPP Solution](Week1/minCostToMoveChips.cpp)
 6. [Find the Smallest Divisor Given a Threshold](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/564/week-1-november-1st-november-7th/3520/) ➡️ [CPP Solution](Week1/smallestDivisor.cpp)
+7. [Add Two Numbers II](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/564/week-1-november-1st-november-7th/3521/) ➡️ [CPP Solution](Week1/addTwoNumbers.cpp)
 
 ## Week 2 🚧
 Coming soon...
