@@ -9,6 +9,7 @@
 2. [Insertion Sort List](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/564/week-1-november-1st-november-7th/3517/) ➡️ [CPP Solution](Week1/insertionSortList.cpp)
 3. [Consecutive Characters](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/564/week-1-november-1st-november-7th/3518/) ➡️ [CPP Solution](Week1/maxPower.cpp)
 4. [Minimum Height Trees](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/564/week-1-november-1st-november-7th/3519/) ➡️ [CPP Solution](Week1/findMinHeightTrees.cpp)
+5. [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/564/week-1-november-1st-november-7th/3519/) ➡️ [CPP Solution](Week1/minCostToMoveChips.cpp)
 
 ## Week 2 🚧
 Coming soon...
