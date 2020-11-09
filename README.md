@@ -14,7 +14,7 @@
 7. [Add Two Numbers II](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/564/week-1-november-1st-november-7th/3521/) ➡️ [CPP Solution](Week1/addTwoNumbers.cpp)
 
 ## Week 2 🚧
-Coming soon...
+1. [Binary Tree Tilt](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/565/week-2-november-8th-november-14th/3524/) ➡️ [CPP Solution](Week2/findTilt.cpp)
 
 ## Week 3 🚧
 Coming soon...
