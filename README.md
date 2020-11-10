@@ -9,12 +9,13 @@
 2. [Insertion Sort List](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/564/week-1-november-1st-november-7th/3517/) ➡️ [CPP Solution](Week1/insertionSortList.cpp)
 3. [Consecutive Characters](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/564/week-1-november-1st-november-7th/3518/) ➡️ [CPP Solution](Week1/maxPower.cpp)
 4. [Minimum Height Trees](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/564/week-1-november-1st-november-7th/3519/) ➡️ [CPP Solution](Week1/findMinHeightTrees.cpp)
-5. [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/564/week-1-november-1st-november-7th/3519/) ➡️ [CPP Solution](Week1/minCostToMoveChips.cpp)
-6. [Find the Smallest Divisor Given a Threshold](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/564/week-1-november-1st-november-7th/3520/) ➡️ [CPP Solution](Week1/smallestDivisor.cpp)
-7. [Add Two Numbers II](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/564/week-1-november-1st-november-7th/3521/) ➡️ [CPP Solution](Week1/addTwoNumbers.cpp)
+5. [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/564/week-1-november-1st-november-7th/3520/) ➡️ [CPP Solution](Week1/minCostToMoveChips.cpp)
+6. [Find the Smallest Divisor Given a Threshold](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/564/week-1-november-1st-november-7th/3521/) ➡️ [CPP Solution](Week1/smallestDivisor.cpp)
+7. [Add Two Numbers II](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/564/week-1-november-1st-november-7th/3522/) ➡️ [CPP Solution](Week1/addTwoNumbers.cpp)
 
 ## Week 2 🚧
 1. [Binary Tree Tilt](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/565/week-2-november-8th-november-14th/3524/) ➡️ [CPP Solution](Week2/findTilt.cpp)
+2. [Maximum Difference Between Node and Ancestor](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/565/week-2-november-8th-november-14th/3525/) ➡️ [CPP Solution](Week2/maxAncestorDiff.cpp)
 
 ## Week 3 🚧
 Coming soon...
