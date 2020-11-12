@@ -17,6 +17,7 @@
 1. [Binary Tree Tilt](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/565/week-2-november-8th-november-14th/3524/) ➡️ [CPP Solution](Week2/findTilt.cpp)
 2. [Maximum Difference Between Node and Ancestor](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/565/week-2-november-8th-november-14th/3525/) ➡️ [CPP Solution](Week2/maxAncestorDiff.cpp)
 3. [Flipping an Image](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/565/week-2-november-8th-november-14th/3526/) ➡️ [CPP Solution](Week2/flipAndInvertImage.cpp)
+4. [Valid Square](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/565/week-2-november-8th-november-14th/3527/) ➡️ [CPP Solution](Week2/validSquare.cpp)
 
 ## Week 3 🚧
 Coming soon...
