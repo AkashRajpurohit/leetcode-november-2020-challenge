@@ -19,6 +19,7 @@
 3. [Flipping an Image](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/565/week-2-november-8th-november-14th/3526/) ➡️ [CPP Solution](Week2/flipAndInvertImage.cpp)
 4. [Valid Square](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/565/week-2-november-8th-november-14th/3527/) ➡️ [CPP Solution](Week2/validSquare.cpp)
 5. [Permutations II](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/565/week-2-november-8th-november-14th/3528/) ➡️ [CPP Solution](Week2/permuteUnique.cpp)
+6. [Populating Next Right Pointers in Each Node](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/565/week-2-november-8th-november-14th/3529/) ➡️ [CPP Solution](Week2/connect.cpp)
 
 ## Week 3 🚧
 Coming soon...
