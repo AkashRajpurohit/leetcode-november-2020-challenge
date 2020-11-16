@@ -13,13 +13,14 @@
 6. [Find the Smallest Divisor Given a Threshold](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/564/week-1-november-1st-november-7th/3521/) ➡️ [CPP Solution](Week1/smallestDivisor.cpp)
 7. [Add Two Numbers II](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/564/week-1-november-1st-november-7th/3522/) ➡️ [CPP Solution](Week1/addTwoNumbers.cpp)
 
-## Week 2 🚧
+## Week 2 ✅
 1. [Binary Tree Tilt](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/565/week-2-november-8th-november-14th/3524/) ➡️ [CPP Solution](Week2/findTilt.cpp)
 2. [Maximum Difference Between Node and Ancestor](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/565/week-2-november-8th-november-14th/3525/) ➡️ [CPP Solution](Week2/maxAncestorDiff.cpp)
 3. [Flipping an Image](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/565/week-2-november-8th-november-14th/3526/) ➡️ [CPP Solution](Week2/flipAndInvertImage.cpp)
 4. [Valid Square](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/565/week-2-november-8th-november-14th/3527/) ➡️ [CPP Solution](Week2/validSquare.cpp)
 5. [Permutations II](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/565/week-2-november-8th-november-14th/3528/) ➡️ [CPP Solution](Week2/permuteUnique.cpp)
 6. [Populating Next Right Pointers in Each Node](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/565/week-2-november-8th-november-14th/3529/) ➡️ [CPP Solution](Week2/connect.cpp)
+7. [Poor Pigs](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/565/week-2-november-8th-november-14th/3530/) ➡️ [CPP Solution](Week2/poorPigs.cpp)
 
 ## Week 3 🚧
 Coming soon...
