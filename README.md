@@ -25,6 +25,7 @@
 ## Week 3 🚧
 1. [Range Sum of BST](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/566/week-3-november-15th-november-21st/3532/) ➡️ [CPP Solution](Week3/rangeSumBST.cpp)
 2. [Longest Mountain in Array](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/566/week-3-november-15th-november-21st/3533/) ➡️ [CPP Solution](Week3/longestMountain.cpp)
+3. [Mirror Reflection](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/566/week-3-november-15th-november-21st/3534/) ➡️ [CPP Solution](Week3/mirrorReflection.cpp)
 
 ## Week 4 🚧
 Coming soon...
