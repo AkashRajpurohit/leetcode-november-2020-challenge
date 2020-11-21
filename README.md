@@ -28,6 +28,7 @@
 3. [Mirror Reflection](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/566/week-3-november-15th-november-21st/3534/) ➡️ [CPP Solution](Week3/mirrorReflection.cpp)
 4. [Merge Intervals](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/566/week-3-november-15th-november-21st/3535/) ➡️ [CPP Solution](Week3/merge.cpp)
 5. [Decode String](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/566/week-3-november-15th-november-21st/3536/) ➡️ [CPP Solution](Week3/decodeString.cpp)
+6. [Search in Rotated Sorted Array II](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/566/week-3-november-15th-november-21st/3537/) ➡️ [CPP Solution](Week3/search.cpp)
 
 ## Week 4 🚧
 Coming soon...
