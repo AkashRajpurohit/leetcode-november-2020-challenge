@@ -29,10 +29,10 @@
 4. [Merge Intervals](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/566/week-3-november-15th-november-21st/3535/) ➡️ [CPP Solution](Week3/merge.cpp)
 5. [Decode String](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/566/week-3-november-15th-november-21st/3536/) ➡️ [CPP Solution](Week3/decodeString.cpp)
 6. [Search in Rotated Sorted Array II](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/566/week-3-november-15th-november-21st/3537/) ➡️ [CPP Solution](Week3/search.cpp)
-7. [Numbers At Most N Given Digit Set](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/566/week-3-november-15th-november-21st/3537/) ➡️ [CPP Solution](Week3/atMostNGivenDigitSet.cpp)
+7. [Numbers At Most N Given Digit Set](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/566/week-3-november-15th-november-21st/3538/) ➡️ [CPP Solution](Week3/atMostNGivenDigitSet.cpp)
 
 ## Week 4 🚧
-Coming soon...
+1. [Unique Morse Code Words](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/567/week-4-november-22nd-november-28th/3540/) ➡️ [CPP Solution](Week4/uniqueMorseRepresentations.cpp)
 
 ## Week 5 🚧
 Coming soon...
