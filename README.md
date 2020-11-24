@@ -34,6 +34,7 @@
 ## Week 4 🚧
 1. [Unique Morse Code Words](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/567/week-4-november-22nd-november-28th/3540/) ➡️ [CPP Solution](Week4/uniqueMorseRepresentations.cpp)
 2. [House Robber III](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/567/week-4-november-22nd-november-28th/3541/) ➡️ [CPP Solution](Week4/rob.cpp)
+3. [Basic Calculator II](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/567/week-4-november-22nd-november-28th/3542/) ➡️ [CPP Solution](Week4/calculate.cpp)
 
 ## Week 5 🚧
 Coming soon...
