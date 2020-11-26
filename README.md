@@ -35,6 +35,7 @@
 1. [Unique Morse Code Words](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/567/week-4-november-22nd-november-28th/3540/) ➡️ [CPP Solution](Week4/uniqueMorseRepresentations.cpp)
 2. [House Robber III](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/567/week-4-november-22nd-november-28th/3541/) ➡️ [CPP Solution](Week4/rob.cpp)
 3. [Basic Calculator II](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/567/week-4-november-22nd-november-28th/3542/) ➡️ [CPP Solution](Week4/calculate.cpp)
+4. [Smallest Integer Divisible by K](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/567/week-4-november-22nd-november-28th/3543/) ➡️ [CPP Solution](Week4/smallestRepunitDivByK.cpp)
 
 ## Week 5 🚧
 Coming soon...
