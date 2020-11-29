@@ -36,6 +36,7 @@
 2. [House Robber III](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/567/week-4-november-22nd-november-28th/3541/) ➡️ [CPP Solution](Week4/rob.cpp)
 3. [Basic Calculator II](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/567/week-4-november-22nd-november-28th/3542/) ➡️ [CPP Solution](Week4/calculate.cpp)
 4. [Smallest Integer Divisible by K](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/567/week-4-november-22nd-november-28th/3543/) ➡️ [CPP Solution](Week4/smallestRepunitDivByK.cpp)
+5. [Longest Substring with At Least K Repeating Characters](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/567/week-4-november-22nd-november-28th/3544/) ➡️ [CPP Solution](Week4/longestSubstring.cpp)
 
 ## Week 5 🚧
 Coming soon...
