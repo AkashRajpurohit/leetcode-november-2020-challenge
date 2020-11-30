@@ -31,17 +31,17 @@
 6. [Search in Rotated Sorted Array II](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/566/week-3-november-15th-november-21st/3537/) ➡️ [CPP Solution](Week3/search.cpp)
 7. [Numbers At Most N Given Digit Set](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/566/week-3-november-15th-november-21st/3538/) ➡️ [CPP Solution](Week3/atMostNGivenDigitSet.cpp)
 
-## Week 4 🚧
+## Week 4 ✅
 1. [Unique Morse Code Words](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/567/week-4-november-22nd-november-28th/3540/) ➡️ [CPP Solution](Week4/uniqueMorseRepresentations.cpp)
 2. [House Robber III](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/567/week-4-november-22nd-november-28th/3541/) ➡️ [CPP Solution](Week4/rob.cpp)
 3. [Basic Calculator II](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/567/week-4-november-22nd-november-28th/3542/) ➡️ [CPP Solution](Week4/calculate.cpp)
 4. [Smallest Integer Divisible by K](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/567/week-4-november-22nd-november-28th/3543/) ➡️ [CPP Solution](Week4/smallestRepunitDivByK.cpp)
 5. [Longest Substring with At Least K Repeating Characters](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/567/week-4-november-22nd-november-28th/3544/) ➡️ [CPP Solution](Week4/longestSubstring.cpp)
-6. [Partition Equal Subset Sum](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/567/week-4-november-22nd-november-28th/3544/) ➡️ [CPP Solution](Week4/canPartition.cpp)
-7. [Sliding Window Maximum](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/567/week-4-november-22nd-november-28th/3544/) ➡️ [CPP Solution](Week4/maxSlidingWindow.cpp)
+6. [Partition Equal Subset Sum](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/567/week-4-november-22nd-november-28th/3545/) ➡️ [CPP Solution](Week4/canPartition.cpp)
+7. [Sliding Window Maximum](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/567/week-4-november-22nd-november-28th/3546/) ➡️ [CPP Solution](Week4/maxSlidingWindow.cpp)
 
 ## Week 5 🚧
-Coming soon...
+1. [Jump Game III](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/568/week-5-november-29th-november-30th/3548/) ➡️ [CPP Solution](Week5/canReach.cpp)
 
 ## Other Challenges 💪
 
