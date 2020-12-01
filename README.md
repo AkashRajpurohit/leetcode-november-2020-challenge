@@ -40,8 +40,9 @@
 6. [Partition Equal Subset Sum](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/567/week-4-november-22nd-november-28th/3545/) ➡️ [CPP Solution](Week4/canPartition.cpp)
 7. [Sliding Window Maximum](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/567/week-4-november-22nd-november-28th/3546/) ➡️ [CPP Solution](Week4/maxSlidingWindow.cpp)
 
-## Week 5 🚧
+## Week 5 ✅
 1. [Jump Game III](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/568/week-5-november-29th-november-30th/3548/) ➡️ [CPP Solution](Week5/canReach.cpp)
+2. [The Skyline Problem](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/568/week-5-november-29th-november-30th/3549/) ➡️ [CPP Solution](Week5/getSkyline.cpp)
 
 ## Other Challenges 💪
 
@@ -55,7 +56,7 @@
   
 ## Where to find me? 🌟
 
-- [Website](https://akashrajpurohit.cf/)
+- [Website](https://akashrajpurohit.com/)
 - [Linkedin](https://www.linkedin.com/in/AkashRajpurohit)
 - [Instagram](https://www.instagram.com/akashwho.codes)
 - [Twitter](https://www.twitter.com/AkashWhoCodes)
